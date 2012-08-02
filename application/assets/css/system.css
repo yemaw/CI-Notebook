@@ -1,0 +1,13 @@
+body{
+	text-align:center !important;width:99.8% !important;margin:0px !important;padding:0px !important;color:#111111;
+	font:15px Georgia,"Times New Roman",serif;color:#333333;line-height:20px;
+}
+p{margin:0px;padding:0px;}
+table,img{border:0px;}
+td{vertical-align:top;}
+a,a:hover,a:visited,a:link,a:focus{text-decoration:inherit;color:inherit;}
+
+#message_box{}
+.red_message{border-top:1px solid #ff0000;border-bottom:1px solid #ff0000;padding:2px 10px 2px 20px;display:block;background:#ffaaaa;margin:2px 0 2px 0;}
+.blue_message{border-top:1px solid #224477;border-bottom:1px solid #224477;padding:2px 10px 2px 20px;display:block;background:#b0ecff;margin:2px 0 2px 0;}
+.green_message{border-top:1px solid #336633;border-bottom:1px solid #336633;padding:2px 10px 2px 20px;display:block;background:#66ff99;margin:2px 0 2px 0;}
